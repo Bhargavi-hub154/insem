@@ -15,7 +15,7 @@ function App(){
       <p id = "Bio">
       My name is Bhargavi and welcome to my profile card where you can find all the information about me.</p>
          <p id = "Bio">
-       I am a student and I am currently pursuing my degree in Computer Science. 
+       I am a student and I am currently pursuing my degree in Computer Science. yes thts it
        I have a passion for coding and I am always eager to learn new technologies.</p>
        <p id = "Bio">
         In my free time, I enjoy reading books, watching movies, and spending time with my friends and family. 
